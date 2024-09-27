@@ -1,7 +1,7 @@
 # System Information Grabber in .bat
 This batch file is a user-friendly tool designed to display essential system information in a clear and organized format. 
 
-# Information it Displays
+# Information It Displays
 Boot Time: Displays the last boot time of the operating system in a readable format.
 PC Name: Shows the name of your computer as recognized on the network.
 Hardware ID (HWID): Retrieves the unique identifier for your machine.

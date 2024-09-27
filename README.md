@@ -1,4 +1,4 @@
-# systeminformationgrabber
+# System Information Grabber in .bat
 This batch file is a user-friendly tool designed to display essential system information in a clear and organized format. 
 
 Upon execution, the script gathers various details about your computer and network, including:
